@@ -1,5 +1,23 @@
 # LITA_PROJECT_CUSTOMER_DATA
 
+## TABLE OF CONTENT
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning And Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
+[Reporting](#reporting)
+
 ## Project Overview
 
 This project is aimed at analyzing customer data for a subscription service to identify segments and trends. It is used to understand customer behavior, track subscription types,
@@ -84,3 +102,5 @@ GROUP BY canceled;
 ## Data Visualisation
 
 ![image](https://github.com/user-attachments/assets/506918e6-34d9-40b4-8f8b-4b2ba322b413)
+
+## Reporting
