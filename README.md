@@ -108,3 +108,8 @@ GROUP BY canceled;
 ## Summary
 
 The rate of cancellation in Premium And Standard is higher than active.
+Basic is predominant in the East and North region, Premium in the South and Standard in the West.
+
+## Recommendation
+
+More awareness of other subscription types in the other regions where they are not subscribed for. 
