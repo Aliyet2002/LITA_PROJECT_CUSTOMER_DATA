@@ -16,7 +16,9 @@
 
 [Data Visualisation](#data-visualisation)
 
-[Reporting](#reporting)
+[Summary](#summary)
+
+[Recommendation](#recommendation)
 
 ## Project Overview
 
@@ -103,4 +105,6 @@ GROUP BY canceled;
 
 ![image](https://github.com/user-attachments/assets/506918e6-34d9-40b4-8f8b-4b2ba322b413)
 
-## Reporting
+## Summary
+
+The rate of cancellation in Premium And Standard is higher than active.
